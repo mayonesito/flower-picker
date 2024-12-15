@@ -1,7 +1,7 @@
 {
   "name": "flower-picker",
   "version": "0.0.1",
-  "description": "Frontend module for flower-picker",
+  "description": "Pick a beautiful flower!",
   "repository": "git@github.com:mayonesito/flower-picker.git",
   "author": "pcatance <pcatance@gmail.com>",
   "license": "MIT",

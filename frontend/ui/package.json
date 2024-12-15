@@ -1,0 +1,8 @@
+{
+  "name": "frontend",
+  "version": "0.0.1",
+  "description": "Frontend module for flower-picker",
+  "author": "pcatance <pcatance@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
