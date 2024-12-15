@@ -4,7 +4,7 @@
 - Change 2
 - Change 3
 
-**Notes:**
+**Remarks:**
 The project will not build just yet. This changes hardly more than boilerplate code to have a backend to build.
 
 > [!NOTE]
