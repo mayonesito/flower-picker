@@ -1,0 +1,13 @@
+{
+  "name": "flower-picker",
+  "version": "0.0.1",
+  "description": "Frontend module for flower-picker",
+  "repository": "git@github.com:mayonesito/flower-picker.git",
+  "author": "pcatance <pcatance@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "frontend/ui"
+  ],
+  "packageManager": "yarn@4.5.3"
+}
